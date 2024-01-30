@@ -1,0 +1,54 @@
+[
+  {
+    "naam": "Bart Smit",
+    "Leerlingnummer": "233927",
+    "Cijfers": [
+      {
+        "Vak": "Wiskunde",
+        "Cijfer": 7
+      },
+      {
+        "Vak": "Nederlands",
+        "Cijfer": 6.3
+      },
+      {
+        "Vak": "Engels",
+        "Cijfer": 8.1
+      },
+      {
+        "Vak": "Informatica",
+        "Cijfer": 9
+      },
+      {
+        "Vak": "Aadrijkskunde",
+        "Cijfer": 7.4
+      }
+    ]
+  },
+  {
+    "naam": "Piet Jansen",
+    "Leerlingnummer": "233928",
+    "Cijfers": [
+      {
+        "Vak": "Wiskunde",
+        "Cijfer": 8.4
+      },
+      {
+        "Vak": "Nederlands",
+        "Cijfer": 7.9
+      },
+      {
+        "Vak": "Engels",
+        "Cijfer": 7
+      },
+      {
+        "Vak": "Informatica",
+        "Cijfer": 8.2
+      },
+      {
+        "Vak": "Aadrijkskunde",
+        "Cijfer": 7.6
+      }
+    ]
+  }
+]
